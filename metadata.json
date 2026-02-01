@@ -1,0 +1,7 @@
+{
+  "name": "TradeSync AI Analyst",
+  "description": "A professional multi-timeframe trading dashboard featuring real-time market simulation, candlestick charts with technical indicators, and AI-powered trade setups using Google Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
